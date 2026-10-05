@@ -26,9 +26,8 @@ this table by a decision of the chairs.
 
 ## Participation
 
-Anyone may participate. Participants follow the [Code of Conduct](CODE_OF_CONDUCT.md), and every
-contribution is made under the [contribution terms](CONTRIBUTING.md), which match the W3C
-Community Contributor License Agreement.
+Anyone may participate. Participants follow the [Code of Conduct](CODE_OF_CONDUCT.md) and each
+repository’s contribution guide. Commit signoffs are not required.
 
 ## Roles
 
@@ -65,16 +64,14 @@ the chairs hold an election open to every participant who has contributed.
 
 ## Moving to W3C
 
-Proposals are meant to be adopted by a recognized standards venue. Because contributions are
-already made under terms matching the W3C Community Contributor License Agreement, a move needs no
-relicensing:
+Proposals are meant to be adopted by a recognized standards venue. A move must account for the
+receiving venue’s licensing and contributor requirements:
 
 1. **One proposal:** its editors propose it to the
    [Web Incubator Community Group](https://wicg.io/) or the relevant W3C Working Group.
 2. **The whole group:** five participants support a W3C Community Group proposal. This document
    becomes its charter, the chairs and editors keep their roles, and each contributor joins the
-   Community Group. The `Signed-off-by` trailers in the repositories' history list every past
-   contributor.
+   Community Group. Git history records past contributions.
 
 Either way, only publications made after the move carry the new venue's status; published
 snapshots keep the status they had.
